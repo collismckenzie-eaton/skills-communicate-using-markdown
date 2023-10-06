@@ -3,6 +3,11 @@
 # Hello
 ###### Goodbye
 
+- [ ] Finish before the restart
+- [x] have a good one
+- [ ] This item is not complete
+
+
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ```
